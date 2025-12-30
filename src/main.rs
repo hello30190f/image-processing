@@ -1,5 +1,5 @@
 use clap::{Parser};
-// use image::GenericImageView;
+use image::GenericImageView;
 
 mod io;
 
